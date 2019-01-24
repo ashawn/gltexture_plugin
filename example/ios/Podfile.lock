@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - gltexture_plugin (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `/Users/ashawn/Tools/flutterV1_0/bin/cache/artifacts/engine/ios`)
+  - gltexture_plugin (from `/Users/ashawn/Projects/Working/gltexture_plugin/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: "/Users/ashawn/Tools/flutterV1_0/bin/cache/artifacts/engine/ios"
+  gltexture_plugin:
+    :path: "/Users/ashawn/Projects/Working/gltexture_plugin/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 9d0fac939486c9aba2809b7982dfdbb47a7b0296
+  gltexture_plugin: d37e58393b59fb4ec10794255cbabff3e903bd28
+
+PODFILE CHECKSUM: cc70c01bca487bebd110b87397f017f3b76a89f1
+
+COCOAPODS: 1.5.2
